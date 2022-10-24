@@ -1,0 +1,85 @@
+.info-pic{
+  width:317px;
+  height:317px;
+  margin-top: 44px;
+  margin-left: 116px;
+  background: url('./assets/business.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  margin-bottom: 10px;
+  
+}
+.profile{
+  background-color: #23252C;
+  width: 550px;
+  height: 868px;
+  display: flex;
+  flex-direction: column;
+  
+  
+}
+.info-section{
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  background-color: #F5F5F5;
+  width: 317px;
+  height: 399px;
+  align-items: center;
+  
+  margin-left: 116px;
+  margin-top: 316px;
+}
+h4{
+  margin-top: 4px;
+  padding-top: 6px;
+  font-size: 25px;
+  margin-bottom: 3px;
+}
+h5{
+ margin-top: 3px;
+ padding: 0;
+ margin-bottom: 4px;
+}
+h6{
+  margin-top: 4px;
+  padding-top: 0;
+  padding-bottom: 0;
+  margin-bottom: 10px;
+}
+.button-line{
+  display: flex;
+  justify-content: center;
+}
+button{
+  margin-top: 7px;
+  width: 115px;
+  height: 34px;
+}
+.email-button{
+  background: #FFFFFF;
+  margin-right: 7px;
+}
+.subject{
+  font-size: 21px;
+  align-content: flex-start;
+}
+.description{
+  width: 241px;
+  font-size: 10px;
+  line-height: 150%;
+
+}
+.icon_label{
+  margin-right: 12px;
+  padding-left: 12px;
+}
+
+.linkedinbtn{
+  margin-left: 10px;
+  background: url('./assets/Button.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
